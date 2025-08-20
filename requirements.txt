@@ -3,3 +3,4 @@ requests==2.32.4
 six==1.17.0
 testresources==2.0.2
 tld==0.13.1
+futures
